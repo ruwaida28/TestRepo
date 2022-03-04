@@ -6,3 +6,9 @@ Change1 in File1
 Change2 in File1
 
 Bug is Change 1 Resolved 
+
+Made some new changes.
+
+Made changes for master branch
+
+Stable version should be released.
